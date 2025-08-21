@@ -13,7 +13,7 @@
 
 ## 📌 Projetos em destaque
 - [Agendamento Barbearia](https://github.com/hugordm/agendamento-barbearia)  
-- [SmartClinic](https://github.com/hugordm/smart-clinic)  
+- [SmartClinic](https://github.com/hugordm/projeto-smart-clinic)  
 - [Lista de Tarefas](https://github.com/hugordm/lista-de-tarefas)  
 
 ## 📊 Estatísticas
