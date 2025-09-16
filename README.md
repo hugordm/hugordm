@@ -14,7 +14,8 @@
 ## 📌 Projetos em destaque
 - [Agendamento Barbearia](https://github.com/hugordm/agendamento-barbearia)  
 - [SmartClinic](https://github.com/hugordm/projeto-smart-clinic)  
-- [Lista de Tarefas](https://github.com/hugordm/todo-list)  
+- [Lista de Tarefas](https://github.com/hugordm/todo-list)
+- [Lista de Filmes](https://lista-de-filmes-iota.vercel.app/)
 
 ## 📊 Estatísticas
 ![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=hugordm&show_icons=true&theme=dracula)
