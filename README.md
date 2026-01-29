@@ -18,5 +18,4 @@
 - [Lista de Filmes](https://lista-de-filmes-iota.vercel.app/)
 - [Consulta de Cep](https://consulta-de-api.vercel.app/)
 
-## 📊 Estatísticas
-![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=hugordm&show_icons=true&theme=dracula)
+
