@@ -20,6 +20,7 @@
 - [Lista de Tarefas](https://github.com/hugordm/todo-list)
 - [Lista de Filmes](https://lista-de-filmes-iota.vercel.app/)
 - [Consulta de Cep](https://consulta-de-api.vercel.app/)
+- [Clima das Cidades Brasileiras](https://clima-henna-delta.vercel.app/)
 
 
 ## 📌 Contato
