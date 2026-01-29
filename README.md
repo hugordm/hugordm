@@ -2,8 +2,8 @@
 # 👋 Olá, eu sou Hugo Melo!
 
 🎓 Estudante de Ciência da Computação  
-💻 Apaixonado por Front-End (HTML, CSS, JS, React)  
-🚀 Focado em me tornar um grande desenvolvedor front-end
+💻 Desenvolvedor em formação, apaixonado por criar soluções práticas e eficientes  
+🚀 Focado em crescimento contínuo na área de desenvolvimento de software
 
 ## 📌 Tecnologias que uso
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,3 +19,5 @@
 - [Consulta de Cep](https://consulta-de-api.vercel.app/)
 
 
+## 📌 Contato
+📧 hugomelo742@gmail.com | [LinkedIn](https://www.linkedin.com/in/hugo-melo-4184b9318) 
