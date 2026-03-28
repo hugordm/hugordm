@@ -15,7 +15,7 @@
 
 
 ## 📌 Projetos em destaque
-- [Agendamento Barbearia](https://github.com/hugordm/agendamento-barbearia)  
+- [Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)  
 - [SmartClinic](https://github.com/hugordm/projeto-smart-clinic)  
 - [Lista de Tarefas](https://github.com/hugordm/todo-list)
 - [Lista de Filmes](https://lista-de-filmes-iota.vercel.app/)
