@@ -15,13 +15,11 @@
 
 
 ## 📌 Projetos em destaque
-- [Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)
+- [Contratai](https://contratai-five.vercel.app/)
 - [Agenda Inteligente](https://agenda-inteligente-ten.vercel.app/)
-- [SmartClinic](https://github.com/hugordm/projeto-smart-clinic)  
-- [Lista de Tarefas](https://github.com/hugordm/todo-list)
-- [Lista de Filmes](https://lista-de-filmes-iota.vercel.app/)
-- [Consulta de Cep](https://consulta-de-api.vercel.app/)
-- [Clima das Cidades Brasileiras](https://clima-henna-delta.vercel.app/)
+- [SmartClinic](https://github.com/hugordm/projeto-smart-clinic)
+- [Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)
+
 
 
 ## 📌 Contato
