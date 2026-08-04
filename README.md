@@ -1,30 +1,55 @@
-
 # 👋 Olá, eu sou Hugo Melo!
 
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor em formação, apaixonado por criar soluções práticas e eficientes  
-🚀 Focado em crescimento contínuo na área de desenvolvimento de software
+🚀 Desenvolvedor Full Stack em formação
+💻 Ciência da Computação — UNINASSAU, 6º período
+📍 Condado — PE
 
-## 📌 Tecnologias que uso
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+🔗 **Portfólio:** [hugo-melo-portfolio.vercel.app](https://hugo-melo-portfolio.vercel.app/)
+
+---
+
+## ⚡ Sobre mim
+
+Gosto de transformar problemas reais em soluções — seja resolvendo um
+desafio sob pressão em hackathon, seja entregando um sistema sob
+encomenda pra um cliente real. Já desenvolvi um SaaS de RH com IA (3º
+lugar em hackathon) e um sistema de agendamento usado de verdade por
+uma barbearia.
+
+Atualmente busco minha primeira oportunidade como desenvolvedor —
+estágio, CLT, PJ ou projeto freelance — e também sigo atendendo
+projetos sob encomenda.
+
+---
+
+## 🛠️ Tecnologias
+
+**Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+**Back-end:** Node.js, PostgreSQL, Prisma, Swagger/OpenAPI
+**Ferramentas:** Git/GitHub, Docker, Claude Code, VS Code
+
+---
 
 ## 📌 Projetos em destaque
-- [Contratai](https://contratai-five.vercel.app/)
-- [Bolão da Copa](https://bolao-copa-2026-5kdq.vercel.app/)
-- [Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)
 
+🏆 **[Contrataí](https://github.com/hugordm/Contratai)** — SaaS de RH
+com psicometria e IA, match inteligente de candidatos. 3º lugar no
+hackathon da MakerStack.
 
+⚽ **[Bolão da Copa 2026](https://github.com/hugordm/bolao-copa-2026)** —
+plataforma de bolão com sistema completo de contas (login, cadastro,
+recuperação de senha), entregue dentro da janela da Copa do Mundo.
 
-## 📌 Contato
-📧 hugomelo742@gmail.com | [LinkedIn](https://www.linkedin.com/in/hugo-melo-4184b9318) 
+💈 **[Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)** —
+sistema em produção, usado de verdade pela Barbearia Pirulito do
+Corte.
+
+Veja todos os projetos e mais contexto no [portfólio](https://hugo-melo-portfolio.vercel.app/).
+
+---
+
+## 📫 Contato
+
+📧 [hugomelo742@gmail.com](mailto:hugomelo742@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/hugo-melo-dev/)
+🔗 [Portfólio](https://hugo-melo-portfolio.vercel.app/)
