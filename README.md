@@ -36,6 +36,10 @@ projetos sob encomenda.
 com psicometria e IA, match inteligente de candidatos. 3º lugar no
 hackathon da MakerStack.
 
+🌐 **[Kanglu — Blog com IA](https://github.com/hugordm/teste-tecnico-kanglu)** —
+plataforma de geração de artigos com IA para SEO, com automação diária
+via cron e busca de fontes reais na web. Desenvolvida para a Kanglu.
+
 ⚽ **[Bolão da Copa 2026](https://github.com/hugordm/bolao-copa-2026)** —
 plataforma de bolão com sistema completo de contas (login, cadastro,
 recuperação de senha), entregue dentro da janela da Copa do Mundo.
