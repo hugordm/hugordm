@@ -40,14 +40,6 @@ hackathon da MakerStack.
 plataforma de geração de artigos com IA para SEO, com automação diária
 via cron e busca de fontes reais na web. Desenvolvida para a Kanglu.
 
-⚽ **[Bolão da Copa 2026](https://github.com/hugordm/bolao-copa-2026)** —
-plataforma de bolão com sistema completo de contas (login, cadastro,
-recuperação de senha), entregue dentro da janela da Copa do Mundo.
-
-💈 **[Sistema de Agendamento Barbearia](https://sistema-de-agendamento-barbearia.vercel.app/)** —
-sistema em produção, usado de verdade pela Barbearia Pirulito do
-Corte.
-
 Veja todos os projetos e mais contexto no [portfólio](https://hugo-melo-portfolio.vercel.app/).
 
 ---
