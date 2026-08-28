@@ -10,11 +10,11 @@
 
 ## ⚡ Sobre mim
 
-Gosto de transformar problemas reais em soluções — seja resolvendo um
-desafio sob pressão em hackathon, seja entregando um sistema sob
-encomenda pra um cliente real. Já desenvolvi um SaaS de RH com IA (3º
-lugar em hackathon) e um sistema de agendamento usado de verdade por
-uma barbearia.
+Gosto de transformar problemas reais em soluções — seja resolvendo
+um desafio sob pressão em hackathon, seja entregando sistemas
+completos, do frontend ao deploy em produção. Meus projetos
+combinam desenvolvimento full stack com aplicação prática de
+Inteligência Artificial.
 
 Atualmente busco minha primeira oportunidade como desenvolvedor —
 estágio, CLT, PJ ou projeto freelance — e também sigo atendendo
